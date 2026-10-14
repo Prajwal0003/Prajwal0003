@@ -1,21 +1,27 @@
 # Prajwal Sankpal
 
-Cybersecurity student at Vishwakarma Institute of Technology, Pune. I build practical security tools, work through CTF challenges, and study web and network security.
+**Cybersecurity student · Security tooling builder · Team UNFINDABLES**  
+VIT Pune — B.Tech CSE (Cybersecurity, IoT and Blockchain) · Pune, India
 
-## Focus
+I build practical security and automation tools with Python, Linux, and embedded systems. My main focus is making authorized testing more repeatable and evidence-driven.
 
-- Python and Linux for security automation
-- Web application security and vulnerability assessment
-- CTF problem solving across web, forensics, and network challenges
+## Flagship project: H1 Workflow Engine
 
-## Featured work
+**[Explore H1 Workflow Engine →](https://github.com/Prajwal0003/h1-workflow-engine)**
 
-**[InCTF 2026 Finals Toolkit](https://github.com/Prajwal0003/inctf-finals-toolkit)** — an offline Arch Linux toolkit with scripts, configurations, an installer, and tests prepared for Team UNFINDABLES.
+A Python bug bounty automation engine combining HackerOne program and scope workflows, reconnaissance pipelines, continuous assessment, target-specific scanners, and vulnerability verification. The workflow includes false-positive controls and is intended for authorized targets.
 
-## Competition highlights
+## Other builds
 
-With Team UNFINDABLES: 1st place at Evil Corp CTF V2, 3rd place in the Kurukshetra offline round, and 8th place at the InCTF 2026 national finals.
+| Project | What it does |
+| --- | --- |
+| [AEGIS Shield](https://github.com/Prajwal0003/AEGIS-Shield) | ESP32 and Python prototype for Wi-Fi/Bluetooth security monitoring with a web dashboard. |
+| [TerrainLens](https://github.com/Prajwal0003/TerrainLens) | Terrain-image evidence and review prototype combining model output with visual-complexity analysis. |
+| [Offline CTF Toolkit](https://github.com/Prajwal0003/inctf-finals-toolkit) | Arch Linux toolkit with scripts, configuration, installer, and tests. Built while preparing for InCTF 2026; not used in the finals. |
 
-## Connect
+## Skills and results
 
-[LinkedIn](https://www.linkedin.com/in/prajwalsankpal/) · [GitHub repositories](https://github.com/Prajwal0003?tab=repositories)
+**Focus:** Python · Linux · web application security · API security · reconnaissance · security automation  
+**CTFs:** With Team UNFINDABLES, 1st at Evil Corp CTF V2, 3rd in the Kurukshetra offline round, and 8th at the InCTF 2026 national finals.
+
+[LinkedIn](https://www.linkedin.com/in/prajwalsankpal/) · [All repositories](https://github.com/Prajwal0003?tab=repositories)

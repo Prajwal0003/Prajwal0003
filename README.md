@@ -9,7 +9,7 @@ I build practical security and automation tools with Python, Linux, and embedded
 
 **[Explore H1 Workflow Engine →](https://github.com/Prajwal0003/h1-workflow-engine)**
 
-A Python bug bounty automation engine combining HackerOne program and scope workflows, reconnaissance pipelines, continuous assessment, target-specific scanners, and vulnerability verification. The workflow includes false-positive controls and is intended for authorized targets.
+A Python bug bounty automation engine combining HackerOne program and scope workflows, reconnaissance pipelines, continuous assessment, target-specific scanners, and vulnerability verification. For a concrete example, the [precision regression tests](https://github.com/Prajwal0003/h1-workflow-engine/blob/master/tests/test_precision_controls.py) compare stable SQL injection timing against a noisy baseline and check that an AI-generated success marker alone cannot confirm a finding. Both examples run on synthetic inputs.
 
 ## Other builds
 
